@@ -10,6 +10,11 @@ Mi meta: escalar la industria hacia operaciones inteligentes, seguras y accesibl
 
 ## 💻 Tech Stack
 
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,svg" height="40" />
+</a>
+
 ### 🧑‍💻 Frontend
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nextjs,vite,react,vue,angular,js,ts,html,css,tailwind,bootstrap,md,latex" height="40" />
