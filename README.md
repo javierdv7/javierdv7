@@ -59,5 +59,3 @@ Mi meta: escalar la industria hacia operaciones inteligentes, seguras y accesibl
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,debian,kali" height="40" />
 </a>
-
-<a href="https://twitter.com/erasmohernandez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Erasmo Hernández" height="30" width="40" /></a>
