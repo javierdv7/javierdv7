@@ -1,1 +1,2 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=javierdv7&theme=transparent&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierdv7)](https://github.com/anuraghazra/github-readme-stats)
