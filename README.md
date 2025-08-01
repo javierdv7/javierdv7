@@ -64,10 +64,13 @@
     <td>
       <img src="https://img.shields.io/badge/-Python-20232A?style=flat&logo=python&logoColor=e16e09" />
       <img src="https://img.shields.io/badge/-C++-20232A?style=flat&logo=cplusplus&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-.Net-20232A?style=flat&logo=dotnet&logoColor=e16e09" />
       <img src="https://img.shields.io/badge/-FastAPI-20232A?style=flat&logo=fastapi&logoColor=e16e09" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Docker-20232A?style=flat&logo=docker&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-Kafka-20232A?style=flat&logo=apachekafka&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-Redis-20232A?style=flat&logo=redis&logoColor=e16e09" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/-MariaDB-20232A?style=flat&logo=mariadb&logoColor=e16e09" />
@@ -85,7 +88,7 @@
 
 ## ¿Dónde encontrarme?
 
-- [Logos (próximamente)](https://bylogos.io)
+- [Logos](https://bylogos.io)
 - [LinkedIn](https://www.linkedin.com/in/javierdvt)
 
 ---
