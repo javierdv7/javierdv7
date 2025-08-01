@@ -60,6 +60,7 @@
       <img src="https://img.shields.io/badge/-Typescript-20232A?style=flat&logo=typescript&logoColor=e16e09" />
       <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=e16e09" />
       <img src="https://img.shields.io/badge/-Next.js-20232A?style=flat&logo=nextdotjs&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-Astro-20232A?style=flat&logo=astro&logoColor=e16e09" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Python-20232A?style=flat&logo=python&logoColor=e16e09" />
@@ -71,13 +72,17 @@
       <img src="https://img.shields.io/badge/-Docker-20232A?style=flat&logo=docker&logoColor=e16e09" />
       <img src="https://img.shields.io/badge/-Kafka-20232A?style=flat&logo=apachekafka&logoColor=e16e09" />
       <img src="https://img.shields.io/badge/-Redis-20232A?style=flat&logo=redis&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-N8N-20232A?style=flat&logo=n8n&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-Actions-20232A?style=flat&logo=githubactions&logoColor=e16e09" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/-MariaDB-20232A?style=flat&logo=mariadb&logoColor=e16e09" />
-      <img src="https://img.shields.io/badge/-Supabase-20232A?style=flat&logo=supabase&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-Postgre-20232A?style=flat&logo=postgresql&logoColor=e16e09" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Cloudflare-20232A?style=flat&logo=cloudflare&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-Vercel-20232A?style=flat&logo=vercel&logoColor=e16e09" />
+      <img src="https://img.shields.io/badge/-Supabase-20232A?style=flat&logo=supabase&logoColor=e16e09" />
     </td>
   </tr>
 </table>
