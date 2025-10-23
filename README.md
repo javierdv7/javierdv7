@@ -1,6 +1,6 @@
 # Javier Vargas
 
-> *Logos: Energía inteligente, procesos eficientes.*
+> *Logos: Control inteligente, procesos eficientes.*
 
 ---
 
